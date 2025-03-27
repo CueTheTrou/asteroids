@@ -1,5 +1,6 @@
-from main import *
-from circleshape import *
+import pygame
+import random
+from circleshape import CircleShape
 from constants import *
 
 class Asteroid(CircleShape):
